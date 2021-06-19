@@ -1,0 +1,8 @@
+{
+"domain": "evn",
+"name": "Data EVN",
+"documentation": "https://sites.google.com/site/exlabvn/",
+"dependencies": [],
+"codeowners": ["exlab247@gmail.com"],
+"requirements": []
+}
